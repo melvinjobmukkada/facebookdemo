@@ -1,0 +1,40 @@
+#login
+{
+    border-radius: 5px ;
+    margin-left: 440px;
+    margin-top:2rem;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    width: 300px;
+}
+
+#text
+{
+    text-align: center;
+    font-size: 14px;
+    padding-top: 20px;
+}
+
+#email{
+    margin-left: 25px;
+    width: 15.5rem;
+    height: 2rem;
+    border: 0;
+    border-radius: 5px;
+}
+
+#button{
+    width: 16rem;
+    margin-left: 1.6rem;
+    height: 2rem ;
+    color: white;
+    background-color: #166fe5;
+    border: 0;
+    border-radius: 5px;
+}
+
+#image{
+    width: 9rem;
+    margin-left: 33rem;
+    margin-top:6rem;
+    
+}
